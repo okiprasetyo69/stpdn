@@ -1,0 +1,15 @@
+{
+  "name": "PP-03 STPDN",
+  "short_name": "PP03",
+  "start_url": "/index.php",
+  "icons": [
+    {
+      "src": "/assets/img/ipdn_logo_512x512.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "theme_color": "#3367D6"
+}
